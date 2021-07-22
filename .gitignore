@@ -1,0 +1,5 @@
+build/
+deploy/
+.vscode/
+tf-a-stm32mp-2.4.r1-r0.tar.gz
+
